@@ -29,4 +29,5 @@ Calcula um Super Poder (soma ponderada de diversos atributos)
 Compara as duas cartas em diversos critérios
 
 Exibe qual cidade vence em cada atributo
+
 ---
